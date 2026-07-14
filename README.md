@@ -188,7 +188,7 @@ http://localhost:3000
 
 ### Home Page
 
-_Add screenshot here_
+Screenshots/HomePage.png
 
 ### Resume Analysis
 
