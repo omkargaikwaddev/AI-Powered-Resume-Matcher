@@ -188,19 +188,15 @@ http://localhost:3000
 
 ### Home Page
 
-Screenshots/HomePage.png
+![Landing Page](./Screenshots/HomePage.png)
 
 ### Resume Analysis
 
-_Add screenshot here_
+![Resume Analysis](./Screenshots/ResumeAnalyzerpage.png)
 
-### Job Recommendations
+### Job Recommendations and Resume Rewrite
 
-_Add screenshot here_
-
-### Resume Rewrite
-
-_Add screenshot here_
+![Resume Analysis](./Screenshots/.png)
 
 ---
 
