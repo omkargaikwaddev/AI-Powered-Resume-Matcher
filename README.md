@@ -192,7 +192,7 @@ http://localhost:3000
 
 ### Resume Analysis
 
-![Resume Analysis](./Screenshots/ResumeAnalyzerpage.png)
+![Resume Analysis](./Screenshots/ResumeAnalyzer page.png)
 
 ### Job Recommendations and Resume Rewrite
 
